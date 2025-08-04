@@ -2,10 +2,10 @@ version: 0.2
 
 env:
   variables:
-    REPOSITORY_URI: 077672914621.dkr.ecr.ap-northeast-2.amazonaws.com/wkd2000/01
-    IMAGE_NAME: wkd2000/01
+    REPOSITORY_URI: 077672914621.dkr.ecr.ap-northeast-2.amazonaws.com/wkd2000
+    IMAGE_NAME: wkd2000
     IMAGE_TAG: latest
-    IMAGE_URI: 077672914621.dkr.ecr.ap-northeast-2.amazonaws.com/wkd2000/01:latest
+    IMAGE_URI: 077672914621.dkr.ecr.ap-northeast-2.amazonaws.com/wkd2000:latest
 
 phases:
   pre_build:
